@@ -3,3 +3,5 @@
 .project
 assignment.properties
 .settings
+.DS_Store
+Archive.zip
